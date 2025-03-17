@@ -1,18 +1,5 @@
 # Time-Series-Analysis-of-CO2-content.
 
----
-title: "MTH6139 Time Series" 
-subtitle: "CO2 Forecasing with Prophet" 
-author: "Kevin Efovi" 
-date: "Spring term 2025" 
-output: 
-  html_document:
-    toc: true
-    toc_float: true
-    theme: spacelab 
-    highlight: tango
----
-
 ## Section 1: Data Context and Disclaimers
 
 In this project, We're going to be looking at Mauna Loa Atmospheric CO2 (Carbon Dioxide) concentration. The aim is to fit a forecasting model using the Prophet package and then analyze trends, seasonality, and overall growth in the data.
